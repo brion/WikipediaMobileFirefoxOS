@@ -1,0 +1,7 @@
+{
+	"servedby":"fallback",
+	"error":{
+		"code":"offline",
+		"info":"Device is offline"
+	}
+}
